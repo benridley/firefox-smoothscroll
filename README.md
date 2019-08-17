@@ -1,4 +1,4 @@
-# firefox-smoothscroll
+# Firefox Smooth Scroll
 Firefox preferences to make your scrolling silky smooth.
 
 ## How to Use
