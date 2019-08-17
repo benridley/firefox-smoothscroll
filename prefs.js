@@ -13,6 +13,5 @@
 user_pref("general.autoScroll", true);
 user_pref("general.smoothScroll.msdPhysics.enabled", true);
 user_pref("gl.require-hardware", true);
-user_pref("identity.fxaccounts.commands.missed.last_fetch", 1566084291);
 user_pref("layers.acceleration.force-enabled", true);
 user_pref("mousewheel.min_line_scroll_amount", 50);
